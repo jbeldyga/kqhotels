@@ -1,0 +1,2 @@
+# kqhotels
+GitHub Pages
